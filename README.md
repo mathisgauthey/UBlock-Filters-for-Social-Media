@@ -131,7 +131,7 @@ This tool offers a simple yet effective way to boost productivity. It is fully c
 <td>
   
 ```
-https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/filterlist.txt
+https://cdn.jsdelivr.net/gh/mathisgauthey/UBlock-Filters-for-Social-Media@master/filterlist.txt
 ```
 </td>
     </tr>
@@ -140,7 +140,7 @@ https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/f
 <td>
   
 ```
-https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/dist/facebook.txt
+https://cdn.jsdelivr.net/gh/mathisgauthey/UBlock-Filters-for-Social-Media@master/dist/facebook.txt
 ```
 </td>
     </tr>
@@ -149,7 +149,7 @@ https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/d
 <td>
   
 ```
-https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/dist/linkedin.txt
+https://cdn.jsdelivr.net/gh/mathisgauthey/UBlock-Filters-for-Social-Media@master/dist/linkedin.txt
 ```
 </td>
     </tr>
@@ -158,7 +158,7 @@ https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/d
 <td>
   
 ```
-https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/dist/reddit.txt
+https://cdn.jsdelivr.net/gh/mathisgauthey/UBlock-Filters-for-Social-Media@master/dist/reddit.txt
 ```
 </td>
     </tr>
@@ -167,7 +167,7 @@ https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/d
 <td>
   
 ```
-https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/dist/twitch.txt
+https://cdn.jsdelivr.net/gh/mathisgauthey/UBlock-Filters-for-Social-Media@master/dist/twitch.txt
 ```
 </td>
     </tr>
@@ -176,7 +176,7 @@ https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/d
 <td>
   
 ```
-https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/dist/youtube.txt
+https://cdn.jsdelivr.net/gh/mathisgauthey/UBlock-Filters-for-Social-Media@master/dist/youtube.txt
 ```
 </td>
     </tr>
@@ -185,7 +185,7 @@ https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/d
 <td>
   
 ```
-https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/dist/x.txt
+https://cdn.jsdelivr.net/gh/mathisgauthey/UBlock-Filters-for-Social-Media@master/dist/x.txt
 ```
 </td>
     </tr>
@@ -195,7 +195,7 @@ https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/d
 <td>
   
 ```
-https://cdn.jsdelivr.net/gh/BevizLaszlo/UBlock-Filters-for-Social-Media@latest/dist/instagram.txt
+https://cdn.jsdelivr.net/gh/mathisgauthey/UBlock-Filters-for-Social-Media@master/dist/instagram.txt
 ```
 </td>
     </tr>
