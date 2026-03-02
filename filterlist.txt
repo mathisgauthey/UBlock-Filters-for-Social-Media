@@ -97,6 +97,7 @@ www.reddit.com##shreddit-app[pagetype="popular"] #subgrid-container
 www.reddit.com##shreddit-app[pagetype="all"] .main-container
 www.reddit.com##shreddit-app[pagetype="explore"] #main-content
 www.reddit.com##shreddit-app[pagetype="news"] #main-content
+www.reddit.com##shreddit-app[pagetype="community"] .main-container
 
 ! Start of Reddit trending dropdown rules
 ! LOGGED IN rules
